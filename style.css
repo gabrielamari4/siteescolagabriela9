@@ -15,5 +15,5 @@ padding: 24px 0;
     width: 20%;
 }
 .cabecalho-lista-item{
-    
+    display: inline-block;
 }
