@@ -1,1 +1,11 @@
-header{background-color: rgb(185, 173, 255);color:rgb(0, 0, 0)}
+{
+margin: 0;
+padding: 0
+}
+.cabecalho{
+
+background-color: rgb(185, 173, 255)
+color:black
+display: flex;
+justify
+}
